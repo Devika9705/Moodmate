@@ -1,0 +1,20 @@
+# Ignore Python cache & virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+*.DS_Store
+
+# Ignore models and large files
+*.h5
+*.mp4
+*.avi
+*.png
+*.jpg
+
+# Ignore IDE and system files
+.vscode/
+.idea/
+
